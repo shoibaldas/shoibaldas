@@ -24,7 +24,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shoibaldas&show_icons=true&locale=en" alt="shoibaldas" /></p>
 
-### :fire: My Stats :
+### :fire: My Streaks :
 
 <div align="center">
   
