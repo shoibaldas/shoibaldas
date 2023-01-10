@@ -24,4 +24,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shoibaldas&show_icons=true&locale=en" alt="shoibaldas" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoibaldas&" alt="shoibaldas" /></p>
+### :fire: My Stats :
+
+<div align="center">
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shoibaldas&theme=dark&background=000000)](https://git.io/streak-stats)
+  
+  </div>
