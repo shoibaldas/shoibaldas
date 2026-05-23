@@ -25,10 +25,10 @@ I am building my career at the intersection of **advanced academic research** an
 
 1. **Project Name** — Short one-line impact statement.
    - Tech: `Python`, `Django`, `PostgreSQL`
-   - Link: `https://github.com/your-username/project`
+   - Link: `Add project repository/demo URL`
 2. **Project Name** — Short one-line impact statement.
    - Tech: `JavaScript`, `React`, `Node.js`
-   - Link: `https://github.com/your-username/project`
+   - Link: `Add project repository/demo URL`
 
 ## 🏆 Achievements
 
@@ -42,6 +42,6 @@ I am open to collaborations in:
 
 ## 📫 Contact
 
-- **Email:** your.email@example.com
-- **LinkedIn:** https://linkedin.com/in/your-profile
-- **Google Scholar / ORCID (optional):** add your profile link
+- **Email:** Add your professional email
+- **LinkedIn:** Add your LinkedIn profile URL
+- **Google Scholar / ORCID (optional):** Add your academic profile URL
