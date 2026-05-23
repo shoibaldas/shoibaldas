@@ -1,16 +1,47 @@
-## Hi there 👋
+# Shoib Al Das
 
-<!--
-**shoibaldas/shoibaldas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am building my career at the intersection of **advanced academic research** and **practical software engineering**.
 
-Here are some ideas to get you started:
+## 🎯 Portfolio Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Academic track (Masters / PhD):** Research-driven problem solving, publication-oriented work, and deep technical exploration.
+- **Software engineering track:** Building reliable, scalable, and user-focused software products.
+
+## 👨‍🎓 Academic Profile
+
+- **Research Interests:** AI/ML, data-driven systems, software architecture, and applied computing.
+- **Current Learning:** Advanced algorithms, research methods, and experimental evaluation.
+- **Academic Goal:** Join a strong Masters/PhD program and contribute to impactful research.
+
+## 👨‍💻 Software Engineering Profile
+
+- **Core Skills:** Problem solving, backend development, APIs, databases, and system design.
+- **Engineering Interests:** Clean architecture, performance optimization, and maintainable code.
+- **Career Goal:** Work as a software engineer building high-impact real-world applications.
+
+## 📌 Selected Projects
+
+> Add your best 3–5 projects here with links, impact, and technologies.
+
+1. **Project Name** — Short one-line impact statement.
+   - Tech: `Python`, `Django`, `PostgreSQL`
+   - Link: `https://github.com/your-username/project`
+2. **Project Name** — Short one-line impact statement.
+   - Tech: `JavaScript`, `React`, `Node.js`
+   - Link: `https://github.com/your-username/project`
+
+## 🏆 Achievements
+
+- Add publications, certifications, hackathons, scholarships, or notable milestones.
+
+## 🤝 Collaboration
+
+I am open to collaborations in:
+- Research projects (especially AI/ML and software systems)
+- Open-source software engineering projects
+
+## 📫 Contact
+
+- **Email:** your.email@example.com
+- **LinkedIn:** https://linkedin.com/in/your-profile
+- **Google Scholar / ORCID (optional):** add your profile link
