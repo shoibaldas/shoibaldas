@@ -35,5 +35,4 @@ I am open to collaborations in:
 
 ## 📫 Contact
 
-- **GitHub:** https://github.com/shoibaldas
 - **Email:** Available on request
