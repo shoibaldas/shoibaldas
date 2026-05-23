@@ -1,6 +1,6 @@
 # Hi 👋 I'm Shoibal Das
 
-Backend Developer focused on **NestJS**, **microservices**, and **distributed systems**.  
+Backend Engineer focused on **NestJS**, **microservices**, and **distributed systems**.  
 I enjoy building scalable backend architectures, working with Redis-based systems, and solving real-world engineering problems.
 
 Currently interested in backend engineering, machine learning, and system design.
