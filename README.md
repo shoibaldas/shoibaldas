@@ -21,18 +21,11 @@ I am building my career at the intersection of **advanced academic research** an
 
 ## 📌 Selected Projects
 
-> Add your best 3–5 projects here with links, impact, and technologies.
-
-1. **Project Name** — Short one-line impact statement.
-   - Tech: `Python`, `Django`, `PostgreSQL`
-   - Link: `Add project repository/demo URL`
-2. **Project Name** — Short one-line impact statement.
-   - Tech: `JavaScript`, `React`, `Node.js`
-   - Link: `Add project repository/demo URL`
+Selected projects and technical case studies are being curated and will be published here.
 
 ## 🏆 Achievements
 
-- Add publications, certifications, hackathons, scholarships, or notable milestones.
+- Publications, certifications, and milestone highlights will be updated in this section.
 
 ## 🤝 Collaboration
 
@@ -42,6 +35,5 @@ I am open to collaborations in:
 
 ## 📫 Contact
 
-- **Email:** Add your professional email
-- **LinkedIn:** Add your LinkedIn profile URL
-- **Google Scholar / ORCID (optional):** Add your academic profile URL
+- **GitHub:** https://github.com/shoibaldas
+- **Email:** Available on request
