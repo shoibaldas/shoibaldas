@@ -33,7 +33,3 @@ I am building my career at the intersection of **advanced academic research** an
 I am open to collaborations in:
 - Research projects (especially AI/ML and software systems)
 - Open-source software engineering projects
-
-## 📫 Contact
-
-- **GitHub:** https://github.com/shoibaldas
