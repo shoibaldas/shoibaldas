@@ -52,17 +52,6 @@ Currently interested in backend engineering, machine learning, and system design
 
 ## Featured Projects
 
-### 🚚 Delivery Platform Backend
-Backend architecture built with **NestJS microservices**, **Redis**, and location-based delivery logic.
-
-**Highlights**
-- Redis-powered microservice communication
-- Deliveryman tracking using Redis `GEOADD`
-- Radius-based nearby deliveryman search
-- Push notifications using Azure Notification Hubs
-
----
-
 ### 📊 Violence Against Women (VAW) Analytics
 Machine learning and analytics project using Bangladesh’s national **VAW survey dataset (BBS & UNFPA)**.
 
