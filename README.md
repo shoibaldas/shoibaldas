@@ -9,35 +9,44 @@ Currently interested in backend engineering, machine learning, and system design
 
 ## About Me
 
-- 💻 Building backend systems with **NestJS**, **Node.js**, and **TypeORM**
-- ⚙️ Working with **microservices**, **Redis**, **Docker**, and cloud services
-- 🧠 Learning and experimenting with **Machine Learning** and **NLP**
-- 📍 Interested in **Distributed Systems**, **System Design**, and scalable architectures
+- Building backend systems with **NestJS**, **Node.js**, and **TypeORM**
+- Working with **microservices**, **Redis**, **Docker**, and cloud services
+- Learning and experimenting with **Machine Learning** and **NLP**
+- Interested in **Distributed Systems**, **System Design**, and scalable architectures
 
 ---
 
 ## Tech Stack
 
 ### Backend
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,ts,js" />
+</p>
 
-### Database & Caching
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis)
+![TypeORM](https://img.shields.io/badge/TypeORM-E83524?style=flat-square&logo=typeorm&logoColor=white)
+
+### Database & Search
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+</p>
+
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+
+### Messaging & Microservices
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
 ### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,azure,githubactions" />
+</p>
 
 ### ML / Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
 ---
 
