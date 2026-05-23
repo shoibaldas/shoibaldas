@@ -21,11 +21,12 @@ I am building my career at the intersection of **advanced academic research** an
 
 ## 📌 Selected Projects
 
-Selected projects and technical case studies are being curated and will be published here.
+- Building full-stack and data-centric projects in Python and JavaScript.
+- Repositories and technical write-ups are published progressively on my GitHub profile.
 
 ## 🏆 Achievements
 
-- Publications, certifications, and milestone highlights will be updated in this section.
+- Continuous development in algorithmic problem solving, research thinking, and production-grade engineering practices.
 
 ## 🤝 Collaboration
 
@@ -35,4 +36,4 @@ I am open to collaborations in:
 
 ## 📫 Contact
 
-- **Email:** Available on request
+- **GitHub:** https://github.com/shoibaldas
