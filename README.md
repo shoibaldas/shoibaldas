@@ -50,17 +50,28 @@ Currently interested in backend engineering, machine learning, and system design
 
 ---
 
-## Featured Projects
+## 📊 Violence Against Women (VAW) Analytics System
 
-### 📊 Violence Against Women (VAW) Analytics
-Machine learning and analytics project using Bangladesh’s national **VAW survey dataset (BBS & UNFPA)**.
+An end-to-end machine learning project predicting intimate partner 
+violence (IPV) risk factors among women in Bangladesh using the 
+DHS 2022 survey microdata (20,000+ respondents).
 
-**Focus**
-- Statistical analysis
-- Regional trend analysis
-- Risk factor identification
-- Data visualization
-- ML-based insights
+### What this project does
+- Predicts IPV vulnerability across demographic and geographic segments
+- Identifies key risk factors (age, education, division, wealth index)
+- Validates predictions against BBS/UNFPA VAW Survey 2024 findings
+- Visualizes division-wise risk maps across Bangladesh's 8 divisions
+
+### Tech Stack
+Python · Pandas · Scikit-learn · XGBoost · CatBoost · SHAP · 
+Plotly · GeoPandas · Jupyter Notebook
+
+### Data Sources
+- Bangladesh Demographic and Health Survey (DHS) 2022
+- BBS/UNFPA Violence Against Women Survey 2024 (published findings)
+
+### Status
+🔄 In Progress
 
 ---
 
